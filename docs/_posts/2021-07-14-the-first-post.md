@@ -2,7 +2,7 @@
 #jekyll yml front matter
 layout: post
 title: "The First Post"
-date: 2021-07-13 05:17:00 +10000
+date: 2021-07-14 05:17:00 +10000
 categories: development projects, writing, self improvement
 ---
 
