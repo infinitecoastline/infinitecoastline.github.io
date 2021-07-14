@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-#About the Author and this blog
+# About the Author and this blog
 
 My name is Ben. I'm a writer, and this blog is a place for me to share whatever I feel like publishing to the internet.
 
