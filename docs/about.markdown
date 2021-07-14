@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+#About the Author and this blog
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Ben. I'm a writer, and this blog is a place for me to share whatever I feel like publishing to the internet.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm an international adventurer, martial arts practitioner, father to Niko, husband to Kt, leader to our dogs Max and Mando. I've had a bunch of technical jobs in my career from technical support, business systems analyst, and I'm currently a technical writer.
 
+I've always enjoyed writing. I studied creative writing and English literature at University and loved it, but never made it my profession (until now).
 
-[jekyll-organization]: https://github.com/jekyll
+Thank you for reading, and I hope you enjoy the journey.
