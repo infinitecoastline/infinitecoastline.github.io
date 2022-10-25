@@ -8,8 +8,8 @@ permalink: /about/
 
 My name is Ben. I'm a writer, and this blog is a place for me to share whatever I feel like publishing to the internet.
 
-I'm an international adventurer, martial arts practitioner, father to Niko, husband to Kt, leader to our dogs Max and Mando. I've had a bunch of technical jobs in my career from technical support, business systems analyst, and I'm currently a technical writer.
+I'm an international adventurer, father to Niko, husband to Kt, dad to our dogs Max and Mando. I've had a bunch of technical jobs in my career from technical support, business systems analyst, and I'm currently a technical writer.
 
-I've always enjoyed writing. I studied creative writing and English literature at University and loved it, but never made it my profession (until now).
+I've always enjoyed writing. I studied creative writing and English literature at university and loved it, but never made it my profession (until now).
 
-Thank you for reading, and I hope you enjoy the journey.
+Thank you for reading!
